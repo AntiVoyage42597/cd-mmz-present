@@ -1,2 +1,2 @@
-# rhs-mania
-Does it work on real Sonic Mania? Yes
+# cd-mmz-present
+Get yourself ready for fight!
